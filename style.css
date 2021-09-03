@@ -19,3 +19,14 @@ table{
     tr{
         text-align: center;
     }
+    .conclusion{
+        background-color: black;
+        color: blanchedalmond;
+        font-family: ;
+    }
+    .intro{
+        background-color:rgb(12, 4, 20);
+        font-size: 30px;
+        font-family: cursive;
+        color: bisque;
+    }
